@@ -1,0 +1,17 @@
+name: qgrid-environment+with_other_favs
+channels:
+  - tim_shawver
+  - conda-forge
+  - tim_shawver
+  - defaults
+dependencies:
+  - qgrid=1.0.0
+  - pandas-datareader>=0.5.0
+  - matplotlib>=2.1.1
+  - seaborn
+  - statsmodels
+  - pip:
+    - vpnotebook
+    - vpython
+    - matplotlib_venn
+    - openpyxl
