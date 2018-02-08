@@ -4,7 +4,7 @@ channels:
   - conda-forge
   - tim_shawver
   - defaults
-  - bioconda
+  - bioconda #copied from https://github.com/mirnylab/cooler-binder/blob/37bce69a8d93f60603594366357bd21766226d56/environment.yml but probably not needed here since I still need to add bioconda channel when Jupyter running
 dependencies:
   - qgrid=1.0.0
   - pandas-datareader>=0.5.0
