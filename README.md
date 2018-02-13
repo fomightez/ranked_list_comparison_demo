@@ -2,8 +2,8 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/fomightez/ranked_list_comparison_demo/master?filepath=demo.ipynb)
 
-A notebook to demonstrate [a function for comparing ranked lists](https://github.com/fomightez/text_mining), called `function to generate accounting of positions in two ranked lists.py`.  
-Click [`Launch Binder`](https://beta.mybinder.org/v2/gh/fomightez/ranked_list_comparison_demo/master?filepath=demo.ipynb) above to launch active demo notebook.  
+A notebook to demonstrate [a function for comparing ranked lists](https://github.com/fomightez/text_mining), called `function to generate accounting of positions in two ranked lists.py`.  The notebook specifically is named `demo.ipynb`.
+Click [`Launch Binder`](https://beta.mybinder.org/v2/gh/fomightez/ranked_list_comparison_demo/master?filepath=demo.ipynb) above to launch active demo notebook. 
 Alternatively, view a nicely rendered version of the demo notebook [here](https://nbviewer.jupyter.org/github/fomightez/ranked_list_comparison_demo/blob/master/demo.ipynb).
 
 
